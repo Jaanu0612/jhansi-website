@@ -1,2 +1,0 @@
-# jhansi-website
-Ecommerce-Website
